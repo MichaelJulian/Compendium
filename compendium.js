@@ -132,7 +132,7 @@ var skills = {
 ///  Game Loop
 ////////////////////////////////////////////////////////////
 
-var choice = prompt('tho?');
+var choice = prompt('pick hero');
 document.getElementById('myP').innerHTML =
   ('You picked ' + choice + '!');
 
